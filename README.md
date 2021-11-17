@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+ - I program some things
+
+![xbjfk's GitHub stats](https://github-readme-stats.vercel.app/api?username=xbjfk&show_icons=true&theme=radical)
 <!--
 **xbjfk/xbjfk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
