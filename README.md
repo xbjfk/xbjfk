@@ -4,6 +4,7 @@
  - Proficient in C++, Python and Swift
  - Experienced in C and Kotlin
 
+![Contribution graph 3d](profile-3d-contrib/profile-night-rainbow.svg)
 ![xbjfk's GitHub stats](https://github-readme-stats.vercel.app/api?username=xbjfk&show_icons=true&theme=radical)
 <!--
 **xbjfk/xbjfk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
