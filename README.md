@@ -1,8 +1,7 @@
 ### Hi there 👋
 
- - I program some things
- - Proficient in C++, Python and Swift
- - Experienced in C and Kotlin
+I am an Independent Technological Engineer with a wide variety of interests and skills.
+I love working on anything related to Computer Science
 
 ![Contribution graph 3d](profile-3d-contrib/profile-night-rainbow.svg)
 ![xbjfk's GitHub stats](https://github-readme-stats.vercel.app/api?username=xbjfk&show_icons=true&theme=radical)
