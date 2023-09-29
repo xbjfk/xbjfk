@@ -1,21 +1,60 @@
 ### Hi there 👋
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Reagan_Bohan-blue)](https://www.linkedin.com/in/reagan-bohan-69b902264)
+<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-YourWebsite-green)](https://www.yourwebsite.com) -->
+[![GitHub](https://img.shields.io/github/followers/xbjfk?label=Follow&style=social)](https://github.com/xbjfk)
 
-I am an Independent Technological Engineer with a wide variety of interests and skills.
-I love working on anything related to Computer Science
+Hello, I'm Reagan Bohan, a passionate Independent Technological Engineer with expertise in C, C++, SvelteKit, Python, Linux and Git. I am committed to creating clean, efficient, and innovative solutions to complex problems.
 
-![Contribution graph 3d](profile-3d-contrib/profile-night-rainbow.svg)
-![xbjfk's GitHub stats](https://github-readme-stats.vercel.app/api?username=xbjfk&show_icons=true&theme=radical)
+## GitHub Stats
+![xbjfk's GitHub stats](https://github-readme-stats.vercel.app/api?username=xbjfk&show_icons=true&count_private=true&theme=dark)
+
+## Featured Repositories
+### CubeTime
+- Description: A timer and set of tools for cubers crafted for iOS. Over 60000 downloads, 4.8 stars and 4000000 user sessions. Only iOS speedcubing timer to use WCA's official scramble program.
+- Technologies Used: SwiftUI, UIKit and GraalVM.
+- GitHub Repository: [CubeTime Repo](https://github.com/CubeStuffs/CubeTime)
+
+### mkcross
+- Description: A tool used to create cross compiler sysroots very quickly. Takes less than one minute on most hardware.
+- Technologies Used: LLVM, Python, C++
+- GitHub Repository: [mkcross Repo](https://github.com/xbjfk/mkcross)
+
+### CubeClubs
+- Description: A website bringing all speedcube clubs in New Zealand together.
+- Technologies Used: SvelteKit, NodeJS, PostgreSQl, TypeScript, .
+- GitHub Repository: [CubeClubs Repo](https://github.com/CubeClubsNZ/app)
+
+### riscv-emulator 
+- Description: A simple emulator emulating the RV32I instruction set. Supports all arithmetic instructions, load/store instructions, as well as UART output.
+- Technologies Used: C.
+- GitHub Repository: [riscv-emulator Repo](https://github.com/xbjfk/riscv-emulator)
+
+## Skills
+- **Programming Languages**: C, C++, Python, JavaScript, TypeScript, Swift, Kotlin.
+- **Web Frameworks**: SvelteKit, React, Next.JS, Flask.
+- **Databases**: SQLite, MongoDB, PostgreSQL, MSSQL/Microsoft SQL Server.
+- **Tools and DevOps**: Git, GitHub Actions, Docker.
+- **Problem Solving**: I thrive on tackling complex challenges and finding innovative solutions. Whether it's debugging a tricky code issue, optimizing a resource-intensive process, or devising creative strategies to meet project goals, I approach each problem with a structured and analytical mindset. I enjoy breaking down problems into manageable components, conducting thorough research, and collaborating with team members to arrive at effective solutions. My ability to adapt to new technologies and learn quickly has been instrumental in resolving critical issues and ensuring the success of various projects throughout my career.
+
+## Open Source Contributions
+
+I have actively contributed to various high-level open-source projects, demonstrating my commitment to the open-source community and my ability to collaborate on impactful projects. Here are some notable projects I have contributed to:
+ - LLVM
+ - Gentoo
+ - OpenRCT2
+ - Bun Runtime
+ - WasiX Libc
+ - Picolibc
+ - Wayfire
+ - openSeaChest
+ - Repology
+
+## Contact
+- LinkedIn: [Reagan Bohan](https://www.linkedin.com/in/reagan-bohan-69b902264)
+<!-- - Portfolio: [Your Website](https://www.yourwebsite.com) -->
+- Email: [xbjfk.github@gmail.com](mailto:xbjfk.github@gmail.com)
+
+Feel free to explore my repositories and connect with me. I'm open to collaborations and new opportunities. Let's build something great together!
 <!--
-**xbjfk/xbjfk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+![Contribution graph 3d](profile-3d-contrib/profile-night-rainbow.svg)
 -->
