@@ -3,10 +3,7 @@
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-YourWebsite-green)](https://www.yourwebsite.com) -->
 [![GitHub](https://img.shields.io/github/followers/xbjfk?label=Follow&style=social)](https://github.com/xbjfk)
 
-Hello, I'm Reagan Bohan, a passionate Independent Technological Engineer with expertise in C, C++, SvelteKit, Python, Linux and Git. I am committed to creating clean, efficient, and innovative solutions to complex problems.
-
-## GitHub Stats
-![xbjfk's GitHub stats](https://github-readme-stats.vercel.app/api?username=xbjfk&show_icons=true&count_private=true&theme=dark)
+Hello, I'm Reagan Bohan, a passionate Independent Technological Engineer with expertise in Rust, C, C++, SvelteKit, Python, Linux and Git. I am committed to creating clean, efficient, and innovative solutions to complex problems.
 
 ## Featured Repositories
 ### CubeTime
@@ -34,7 +31,6 @@ Hello, I'm Reagan Bohan, a passionate Independent Technological Engineer with ex
 - **Web Frameworks**: SvelteKit, React, Next.JS, Flask.
 - **Databases**: SQLite, MongoDB, PostgreSQL, MSSQL/Microsoft SQL Server.
 - **Tools and DevOps**: Git, GitHub Actions, Docker.
-- **Problem Solving**: I thrive on tackling complex challenges and finding innovative solutions. Whether it's debugging a tricky code issue, optimizing a resource-intensive process, or devising creative strategies to meet project goals, I approach each problem with a structured and analytical mindset. I enjoy breaking down problems into manageable components, conducting thorough research, and collaborating with team members to arrive at effective solutions. My ability to adapt to new technologies and learn quickly has been instrumental in resolving critical issues and ensuring the success of various projects throughout my career.
 
 ## Open Source Contributions
 
