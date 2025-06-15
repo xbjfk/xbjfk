@@ -1,6 +1,4 @@
 ### Hi there 👋
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Reagan_Bohan-blue)](https://www.linkedin.com/in/reagan-bohan-69b902264)
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-YourWebsite-green)](https://www.yourwebsite.com) -->
 [![GitHub](https://img.shields.io/github/followers/xbjfk?label=Follow&style=social)](https://github.com/xbjfk)
 
 Hello, I'm Reagan Bohan, a passionate Independent Technological Engineer with expertise in Rust, C, C++, SvelteKit, Python, Linux and Git. I am committed to creating clean, efficient, and innovative solutions to complex problems.
@@ -18,7 +16,7 @@ Hello, I'm Reagan Bohan, a passionate Independent Technological Engineer with ex
 
 ### CubeClubs
 - Description: A website bringing all speedcube clubs in New Zealand together.
-- Technologies Used: SvelteKit, NodeJS, PostgreSQl, TypeScript, .
+- Technologies Used: SvelteKit, NodeJS, PostgreSQl, TypeScript.
 - GitHub Repository: [CubeClubs Repo](https://github.com/CubeClubsNZ/app)
 
 ### riscv-emulator 
@@ -46,8 +44,6 @@ I have actively contributed to various high-level open-source projects, demonstr
  - Repology
 
 ## Contact
-- LinkedIn: [Reagan Bohan](https://www.linkedin.com/in/reagan-bohan-69b902264)
-<!-- - Portfolio: [Your Website](https://www.yourwebsite.com) -->
 - Email: [xbjfk.github@gmail.com](mailto:xbjfk.github@gmail.com)
 
 Feel free to explore my repositories and connect with me. I'm open to collaborations and new opportunities. Let's build something great together!
