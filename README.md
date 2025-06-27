@@ -16,7 +16,7 @@ Hello, I'm Reagan Bohan, a passionate Independent Technological Engineer with ex
 
 ### CubeClubs
 - Description: A website bringing all speedcube clubs in New Zealand together.
-- Technologies Used: SvelteKit, NodeJS, PostgreSQl, TypeScript.
+- Technologies Used: SvelteKit, NodeJS, PostgreSQL, TypeScript.
 - GitHub Repository: [CubeClubs Repo](https://github.com/CubeClubsNZ/app)
 
 ### riscv-emulator 
