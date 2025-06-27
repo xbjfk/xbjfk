@@ -32,9 +32,11 @@ Hello, I'm Reagan Bohan, a passionate Independent Technological Engineer with ex
 
 ## Open Source Contributions
 
-I have actively contributed to various high-level open-source projects, demonstrating my commitment to the open-source community and my ability to collaborate on impactful projects. Here are some notable projects I have contributed to:
+I have actively contributed to various high-level open-source projects, demonstrating my commitment and passion for open source. Here are some notable projects I have contributed to:
  - LLVM
  - Gentoo
+ - Coreboot
+ - Various official rust-lang crates: libc, cc, stacker
  - OpenRCT2
  - Bun Runtime
  - WasiX Libc
